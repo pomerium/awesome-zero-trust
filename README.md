@@ -21,6 +21,21 @@ Zero trust improves on [perimeter](https://www.redbooks.ibm.com/redpapers/pdfs/r
 
 ## Resources
 
+### Software
+
+These tools implement some of the concepts of Zero Trust:
+
+- [ZeroTier](https://zerotier.com) - ZeroTier delivers the capabilities of VPNs, SDN, and SD-WAN with a single system. Manage all your connected resources across both local and wide area networks as if the whole world is a single data center.
+- [Pomerium](https://www.pomerium.io/) - Pomerium is a context and identity aware access proxy.
+- [Pritunl Zero](https://zero.pritunl.com/) - Free and open source BeyondCorp server providing zero trust security for privileged access to ssh and web applications
+- [Transcend](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy. Secure internal services outside your VPN/perimeter network during a zero-trust transition.
+- [kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
+- [wg-dynamic](https://github.com/K4YT3X/wireguard-mesh-configurator) - wg-dynamic is a tool designed officially by WireGuard developing team. This new utility will provide a convenient way of configuring networks dynamically, where mesh network being one of the them.
+- [WireHub](https://github.com/Gawen/WireHub) - Decentralized, peer-to-peer and secure overlay networks
+- [ztncui](https://github.com/key-networks/ztncui) - ztncui is a web user interface for a standalone ZeroTier network controller.
+
+
+
 ### Books
 
 - [Zero Trust Networks](http://shop.oreilly.com/product/0636920052265.do) by Gilman and Barth
