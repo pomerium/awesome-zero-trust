@@ -4,6 +4,10 @@ Zero trust is a security model and framework originally described by [John Kinde
 
 ## Summary
 
+
+test
+
+
 ### Why? 
 
 Zero trust improves on [perimeter](https://www.redbooks.ibm.com/redpapers/pdfs/redp4397.pdf) [security](https://en.wikipedia.org/wiki/Perimeter_Security)'s shortcomings, namely:
