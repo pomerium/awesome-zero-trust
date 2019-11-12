@@ -27,6 +27,7 @@ These tools implement some of the concepts of Zero Trust:
 
 - [ZeroTier](https://zerotier.com) - ZeroTier delivers the capabilities of VPNs, SDN, and SD-WAN with a single system. Manage all your connected resources across both local and wide area networks as if the whole world is a single data center.
 - [Duo](https://duo.com/) - Duo’s trusted access solution is a user-centric zero-trust security platform for all users, all devices and all applications.
+- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests.
 - [Pomerium](https://www.pomerium.io/) - Pomerium is a context and identity aware access proxy.
 - [Pritunl Zero](https://zero.pritunl.com/) - Free and open source BeyondCorp server providing zero trust security for privileged access to ssh and web applications
 - [PrivX](https://www.ssh.com/products/privx/) - PrivX is an access management gateway that is fast to deploy and simple to maintain.
