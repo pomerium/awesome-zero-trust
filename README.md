@@ -41,6 +41,7 @@ These tools implement some of the concepts of Zero Trust:
 ### Books
 
 - [Zero Trust Networks](http://shop.oreilly.com/product/0636920052265.do) by Gilman and Barth
+
 ### Papers
 
 - Forrester [Build Security Into Your Network’s DNA: The Zero Trust Network Architecture](http://www.virtualstarmedia.com/downloads/Forrester_zero_trust_DNA.pdf)
@@ -50,7 +51,8 @@ These tools implement some of the concepts of Zero Trust:
 - Google BeyondCorp 4  [Migrating to BeyondCorp: Maintaining Productivity While Improving Security](https://research.google.com/pubs/pub46134.html) 
 - Google BeyondCorp 5  [The human element: “The User Experience”](https://research.google.com/pubs/pub46366.html) 
 - Google BeyondCorp 6 [Secure your endpoints: "Building a Healthy Fleet"](https://ai.google/research/pubs/pub47356)
-
+- NIST Zero Trust Architecture [SP 800-207 draft](https://csrc.nist.gov/News/2019/zero-trust-architecture-draft-sp-800-207)
+ 
 #### Posts
 
 - Google [How Google adopted BeyondCorp](https://security.googleblog.com/2019/06/how-google-adopted-beyondcorp.html)
