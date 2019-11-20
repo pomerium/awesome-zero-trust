@@ -26,19 +26,22 @@ Zero trust improves on [perimeter](https://www.redbooks.ibm.com/redpapers/pdfs/r
 These tools implement some of the concepts of Zero Trust:
 
 - [ZeroTier](https://zerotier.com) - ZeroTier delivers the capabilities of VPNs, SDN, and SD-WAN with a single system. Manage all your connected resources across both local and wide area networks as if the whole world is a single data center.
+- [Duo](https://duo.com/) - Duo’s trusted access solution is a user-centric zero-trust security platform for all users, all devices and all applications.
+- [ghostunnel](https://github.com/square/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
+- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests.
 - [Pomerium](https://www.pomerium.io/) - Pomerium is a context and identity aware access proxy.
 - [Pritunl Zero](https://zero.pritunl.com/) - Free and open source BeyondCorp server providing zero trust security for privileged access to ssh and web applications
+- [PrivX](https://www.ssh.com/products/privx/) - PrivX is an access management gateway that is fast to deploy and simple to maintain.
 - [Transcend](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy. Secure internal services outside your VPN/perimeter network during a zero-trust transition.
 - [kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [wg-dynamic](https://github.com/K4YT3X/wireguard-mesh-configurator) - wg-dynamic is a tool designed officially by WireGuard developing team. This new utility will provide a convenient way of configuring networks dynamically, where mesh network being one of the them.
 - [WireHub](https://github.com/Gawen/WireHub) - Decentralized, peer-to-peer and secure overlay networks
 - [ztncui](https://github.com/key-networks/ztncui) - ztncui is a web user interface for a standalone ZeroTier network controller.
 
-
-
 ### Books
 
 - [Zero Trust Networks](http://shop.oreilly.com/product/0636920052265.do) by Gilman and Barth
+
 ### Papers
 
 - Forrester [Build Security Into Your Network’s DNA: The Zero Trust Network Architecture](http://www.virtualstarmedia.com/downloads/Forrester_zero_trust_DNA.pdf)
@@ -48,7 +51,8 @@ These tools implement some of the concepts of Zero Trust:
 - Google BeyondCorp 4  [Migrating to BeyondCorp: Maintaining Productivity While Improving Security](https://research.google.com/pubs/pub46134.html) 
 - Google BeyondCorp 5  [The human element: “The User Experience”](https://research.google.com/pubs/pub46366.html) 
 - Google BeyondCorp 6 [Secure your endpoints: "Building a Healthy Fleet"](https://ai.google/research/pubs/pub47356)
-
+- NIST Zero Trust Architecture [SP 800-207 draft](https://csrc.nist.gov/News/2019/zero-trust-architecture-draft-sp-800-207)
+ 
 #### Posts
 
 - Google [How Google adopted BeyondCorp](https://security.googleblog.com/2019/06/how-google-adopted-beyondcorp.html)
