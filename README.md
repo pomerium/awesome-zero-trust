@@ -52,7 +52,8 @@ These tools implement some of the concepts of Zero Trust:
 - Google BeyondCorp 5  [The human element: “The User Experience”](https://research.google.com/pubs/pub46366.html) 
 - Google BeyondCorp 6 [Secure your endpoints: "Building a Healthy Fleet"](https://ai.google/research/pubs/pub47356)
 - NIST Zero Trust Architecture [SP 800-207 draft](https://csrc.nist.gov/News/2019/zero-trust-architecture-draft-sp-800-207)
- 
+- Google BeyondProd [A new approach to cloud-native security](https://cloud.google.com/security/beyondprod)
+
 #### Posts
 
 - Google [How Google adopted BeyondCorp](https://security.googleblog.com/2019/06/how-google-adopted-beyondcorp.html)
