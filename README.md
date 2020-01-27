@@ -32,7 +32,7 @@ These tools implement some of the concepts of Zero Trust:
 - [Pomerium](https://www.pomerium.io/) - Pomerium is a context and identity aware access proxy.
 - [Pritunl Zero](https://zero.pritunl.com/) - Free and open source BeyondCorp server providing zero trust security for privileged access to ssh and web applications
 - [PrivX](https://www.ssh.com/products/privx/) - PrivX is an access management gateway that is fast to deploy and simple to maintain.
-- [PrivX on AWS](https://github.com/sSHcom/privx-on-aws) - Simplifies PrivX on-boarding experience with deployment automation using infrastructure as a code tooling.
+- [PrivX on AWS](https://github.com/SSHcom/privx-on-aws) - Simplifies PrivX on-boarding experience with deployment automation using infrastructure as a code tooling.
 - [Transcend](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy. Secure internal services outside your VPN/perimeter network during a zero-trust transition.
 - [kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [wg-dynamic](https://github.com/K4YT3X/wireguard-mesh-configurator) - wg-dynamic is a tool designed officially by WireGuard developing team. This new utility will provide a convenient way of configuring networks dynamically, where mesh network being one of the them.
