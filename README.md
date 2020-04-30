@@ -51,7 +51,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 
 ### Government Recommendations
 
-- NIST SP 800-207 (DRAFT) [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207-draft)
+- NIST SP 800-207 (DRAFT) [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207-draft2)
 - UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/)
 
 ### Books
