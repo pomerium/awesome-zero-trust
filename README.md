@@ -57,6 +57,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 ### Books
 
 - [Zero Trust Networks](http://shop.oreilly.com/product/0636920052265.do) by Gilman and Barth
+- [Zero Trust Security](https://www.apress.com/us/book/9781484267011) by Garbis and Chapman
 
 ### Papers
 
